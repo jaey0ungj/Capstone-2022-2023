@@ -1,0 +1,1 @@
+Timestamp(ms) Temperature(C) gyro_x(deg/s) gyro_y(deg/s) gyro_z(deg/s) magn_x(uT) magn_y(uT) magn_z(uT) Euler_x(deg) Euler_y(deg) Euler_z(deg) Quat_w Quat_x Quat_y Quat_z Freq_gyro_x Freq_gyro_y Freq_gyro_z Freq_Euler_x Freq_Euler_y Freq_Euler_z
